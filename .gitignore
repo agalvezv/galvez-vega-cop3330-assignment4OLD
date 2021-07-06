@@ -1,6 +1,5 @@
 # Project exclude paths
 /.gradle/
-/.idea/
 /uml/
 /src/
 /.gitignore
@@ -8,3 +7,5 @@
 /gradlew
 /gradlew.bat
 /settings.gradle
+/build/
+/.idea/
