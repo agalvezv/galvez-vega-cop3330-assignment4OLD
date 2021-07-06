@@ -1,0 +1,10 @@
+App.java
+ App
+ucf/App.java
+ ucf.App
+ucf/assignments/ListMoveOperations.java
+ ucf.assignments.ListMoveOperations
+ucf/assignments/ListManagement.java
+ ucf.assignments.ListManagement
+ucf/assignments/Interface.java
+ ucf.assignments.Interface

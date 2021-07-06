@@ -1,0 +1,4 @@
+ucf/assignments/ListMoveOperationsTest.java
+ ucf.assignments.ListMoveOperationsTest
+ucf/assignments/ListManagementTest.java
+ ucf.assignments.ListManagementTest
