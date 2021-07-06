@@ -7,6 +7,10 @@ package ucf.assignments;
 
 public class Interface {
 
+    public static void main(String[] args) {
+
+    }
+
 
     //this is the application center
     //main will comme into existence here
